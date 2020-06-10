@@ -1,0 +1,13 @@
+G:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\SpeachSynthesizer\SpeachSynthesizer\bin\Debug\SpeachSynthesizer.exe.config
+G:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\SpeachSynthesizer\SpeachSynthesizer\obj\Debug\SpeachSynthesizer.exe
+G:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\SpeachSynthesizer\SpeachSynthesizer\obj\Debug\SpeachSynthesizer.pdb
+G:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\SpeachSynthesizer\SpeachSynthesizer\bin\Debug\SpeachSynthesizer.exe
+G:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\SpeachSynthesizer\SpeachSynthesizer\bin\Debug\SpeachSynthesizer.pdb
+G:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\SpeachSynthesizer\SpeachSynthesizer\obj\Debug\SpeachSynthesizer.csprojResolveAssemblyReference.cache
+G:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\SpeachSynthesizer\SpeachSynthesizer\obj\Debug\MainWindow.baml
+G:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\SpeachSynthesizer\SpeachSynthesizer\obj\Debug\MainWindow.g.cs
+G:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\SpeachSynthesizer\SpeachSynthesizer\obj\Debug\App.g.cs
+G:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\SpeachSynthesizer\SpeachSynthesizer\obj\Debug\SpeachSynthesizer_MarkupCompile.cache
+G:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\SpeachSynthesizer\SpeachSynthesizer\obj\Debug\SpeachSynthesizer.g.resources
+G:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\SpeachSynthesizer\SpeachSynthesizer\obj\Debug\SpeachSynthesizer.Properties.Resources.resources
+G:\MyProject\VISUAL STUDIO\VISUAL C# WPF PROJECT\SpeachSynthesizer\SpeachSynthesizer\obj\Debug\SpeachSynthesizer.csproj.GenerateResource.Cache
